@@ -1,4 +1,4 @@
-/* Arise marketing site — minimal interactivity: mobile nav + FAQ single-open. */
+/* Larken marketing site — minimal interactivity: mobile nav + FAQ single-open. */
 (() => {
   'use strict';
 
